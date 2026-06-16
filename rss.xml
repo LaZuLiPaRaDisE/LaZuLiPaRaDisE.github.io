@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>LaZuLi PaRaDisE</title>
+  <description>A personal site/blog.</description>
+  <link>https://lazuliparadise.neocities.org/</link>
+  <lastBuildDate>
+    Sat, 07 Mar 2026 16:29:29 -0900
+  </lastBuildDate>
+  <ttl>20000</ttl>
+
+
+     <item>
+  <title>Life update</title>
+  <description>
+A brief update on whats going on, and plans.
+  </description>
+  <link>https://lazuliparadise.neocities.org/lifeupdate</link>
+  <pubDate>
+    Wed, 25 Feb 2026 13:00:00 -0900
+  </pubDate>
+ </item>
+  
+       <item>
+  <title>The state of the internet and why i like old tech</title>
+  <description>
+Blog about my thoughts on the current state of the internet, and a little lore as to why i like old tech.
+  </description>
+  <link>https://lazuliparadise.neocities.org/stateofinternet</link>
+  <pubDate>
+    Sat, 07 Mar 2026 23:00:30 -0900
+  </pubDate>
+ </item>
+  
+  
+  
+  </channel>
+</rss>
